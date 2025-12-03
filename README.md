@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hello, I'm Tteus
 
-<!--
-**Tteus-bub/Tteus-bub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a young developer currently studying **IT Management and Programming**.  
+I focus on **web development**, **automations**, and exploring the world of **artificial intelligence** to create tools that make everyday tasks more efficient and intuitive.
 
-Here are some ideas to get you started:
+## 🚀 What I Enjoy Building
+- Web applications  
+- Automation tools  
+- Small AI-driven utilities  
+- Practical solutions to real problems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Interests
+- Artificial Intelligence  
+- Process automation  
+- Clean and efficient development  
+- Learning new technologies and improving my workflow   
+
+## 🎯 My Focus
+I like to learn fast, test new ideas, and build clear, functional solutions that actually solve something.  
+Always improving — always creating.
+
+---
+
