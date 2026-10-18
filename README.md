@@ -28,6 +28,6 @@ Most of my code lives in private client and company repositories.
 
 ### Contact
 
-[Website](https://mateus-carneiro.vercel.app) · [LinkedIn](https://www.linkedin.com/in/mateus-carneiro-8a2912375/) · mateuscarneiroslb20@gmail.com
+[Website](https://mateus-carneiro.vercel.app) · [LinkedIn](https://www.linkedin.com/in/mateus-carneiro-dev/) · mateuscarneiroslb20@gmail.com
 
 <sub>PT · Estudo Gestão e Programação de Sistemas Informáticos em Oliveira do Bairro e trabalho em projetos reais ao mesmo tempo. Aberto a projetos e a propostas de trabalho.</sub>
